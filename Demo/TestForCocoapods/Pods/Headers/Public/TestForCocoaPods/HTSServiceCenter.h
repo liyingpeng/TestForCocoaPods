@@ -1,0 +1,1 @@
+../../../TestForCocoaPods/Classes/Core/HTSServiceCenter.h
